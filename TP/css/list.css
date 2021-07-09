@@ -20,3 +20,8 @@ nav {
   nav a:hover {
     background-color: black;
   }
+  section {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    }
