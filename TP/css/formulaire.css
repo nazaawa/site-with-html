@@ -1,7 +1,7 @@
 nav {
   display: flex;
   background-color: rgb(39, 35, 35);
-  padding: 10px;
+
   color: white;
 }
 nav ul {
@@ -19,7 +19,9 @@ nav a {
 }
 nav a:hover {
   background-color: black;
+  padding: 25px;
 }
+
 section {
   display: flex;
   flex-direction: column;
